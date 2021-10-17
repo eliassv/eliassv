@@ -7,7 +7,7 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=eliassv&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/eliassv">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassv&layout=compact" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassv&layout=compact&langs_count=10" />
 </a>
 
 
