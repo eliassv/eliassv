@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with Nodejs, Typescript, Vue, Elasticsearch and Serverless Apps
-- 🌱 I’m currently learning Clean Architecture and React Native.
+- 🌱 I’m currently learning Clean Architecture and Kubernetes.
 
 <a href="https://github.com/eliassv">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=eliassv&count_private=true&show_icons=true" />
